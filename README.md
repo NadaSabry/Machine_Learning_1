@@ -8,11 +8,10 @@
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-hany-5004971b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJICNlATVGJYHxb1KOx6nYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lîon heart" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saytara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
-<a href="https://discord.gg/#3256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3256" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nada.sabri.9849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lîon heart" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

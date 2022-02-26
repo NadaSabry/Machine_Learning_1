@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to Machine Learning</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to 'Machine Learning'
+<img src="https://th.bing.com/th/id/R.d1d66e6279e002240d74a54c9771052c?rik=g3cffAb7cIF%2b1Q&pid=ImgRaw&r=0" width="50px" hieght="50px">
+</h1>
 
 <h2 align="left">What is Machine Learning:</h3>
 <p>Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.</p>
